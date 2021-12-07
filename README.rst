@@ -1,40 +1,31 @@
-AlertOps Expert Guidance
+AlertOps PagerDuty Comparison #5 – Incident Management
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
-
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Compare AlertOps to PagerDuty – Incident Management
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Automation and improved processes can help to avert many problems from turning into incidents. However, costs from major it incidents are continuing to rise.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Typically, when there is a major it incident there are several teams involved, including an incident management team, subject matter experts from various technical teams, as well as stakeholders.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+One of the critical success factors is the time to reach all of these people. Another key success factor is effective management of the ongoing communication to each of these groups.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Not all incident management and alert escalation software offers both automatic and manual page-out functionality. Fortunately, there’s AlertOps, which makes it simple to simultaneously send page-outs to IT teams in various departments.
 
-1 Red Canary 2021 Threat Detection Report
+Thanks to AlertOps’s manual alerting functionality, you can quickly and easily do the following:
+
+    Send Detailed Alerts: Include graphs, images, links or links to conference bridges in page-outs to help IT teams accelerate incident resolution.  
+    Instantly Connect with IT Teams: Select a bridge number for an alert that allows IT team members to connect to the bridge by clicking a link in an email message or pressing a key in a voice message. 
+    Keep IT Teams Up to Date: Enter information into any standard alert fields and/or customer template fields. 
+    Notify the Right IT Team Members About Critical Incidents: Select a pre-defined topic and automatically add groups to the topic. Also, you can search for groups and/or users and add them to an alert.  
+    Analyze Incident Response: View all alert recipients and assess their response.  
+
+There is no need to settle for incident management and alert escalation software that lacks manual page-out functionality. Instead, choose software that offers both automatic and manual paging. Because if you have both automatic and manual paging capabilities at your disposal, all of your company’s IT teams can maintain ongoing communication and work together to resolve any critical incident, at any time.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/pagerduty-comparison-incidents/
 
 Read more:
 ====
